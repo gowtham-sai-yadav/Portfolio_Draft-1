@@ -21,7 +21,7 @@ function HomePage() {
       position={"right"}
       img={"https://ajitverma15.github.io/Interactive-Portfolio/Image/20200630_162659.gif"}
       header={"Hello All! I'm Gowtham.. 👋"}
-      text2={"A passionate and hustling engineering student wanting to acheive greater heights, never hesitate from pushing my limits and achieve the results which i need"}
+      text2={"A passionate and driven engineer, constantly pushing limits to build impactful solutions. With expertise in full-stack development, fintech, and AI, I turn ideas into reality."}
       image={"gif"}
       />
 
@@ -45,9 +45,10 @@ function HomePage() {
         icon4={mdiLanguageJavascript}
         icon5={mdiReact}
         icon6={mdiNodejs}
-        text1={" Building Fully responsive website frontend using HTML, CSS, Javascript and React."}
-        text2={" As of now I have knowledge only of frontend but in near future I will learn more skills and excited to explore NodeJS, Django, Flask and many more."}
-        text3={" I have also used Unity,Unreal-Engine,photoshop,Davinci Resolve"}
+        text1={"Building fully responsive and dynamic web frontends using HTML, CSS, JavaScript, and React."}  
+        text2={"Currently focused on frontend development, with a strong eagerness to master backend technologies like Node.js, Django, and Flask."}  
+        text3={"Experienced with Unity, Unreal Engine, Photoshop, and DaVinci Resolve for creative and game development projects."}
+        
         />
 
     <Tile

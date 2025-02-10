@@ -26,24 +26,24 @@ function SkillsPage () {
                 <h2>Proficiency</h2>
                 <ProgressBar 
                     percentage= {85}
-                    skill_text={"HTML"}
+                    skill_text={"React"}
                     />
                 <ProgressBar
                     percentage={80}
-                    skill_text={"CSS"}
+                    skill_text={"Next.Js"}
                     />
                 <ProgressBar
                     percentage={80}
-                    skill_text={"Javascript"}/>
+                    skill_text={"Node"}/>
                 <ProgressBar
                     percentage={90}
-                    skill_text={"React"}/>
+                    skill_text={"Java"}/>
                 <ProgressBar
                     percentage={70}
                     skill_text={"Python"}/>
                 <ProgressBar
                     percentage={65}
-                    skill_text={"Java"}/>
+                    skill_text={"Flutter"}/>
             </div>
         </div>
         <Footer/>
