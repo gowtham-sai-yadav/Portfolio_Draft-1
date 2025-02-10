@@ -4,7 +4,7 @@ import { mdiLinkedin } from "@mdi/js";
 import { mdiGithub } from '@mdi/js';
 import { mdiGoogle } from "@mdi/js";
 import { mdiInstagram } from "@mdi/js";
-import dp from './profile.jpeg';
+import dp from './profile.jpg';
 import './ContactPage.css'
 import Footer from "../../Components/Footer";
 function ContactPage () {
